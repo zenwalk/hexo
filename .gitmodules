@@ -1,3 +1,12 @@
 [submodule "themes/polk"]
 	path = themes/polk
 	url = https://github.com/chunqiuyiyu/hexo-theme-polk
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/ahonn/hexo-theme-even
+[submodule "themes/jacman"]
+	path = themes/jacman
+	url = https://github.com/wuchong/jacman.git
+[submodule "themes/apollo"]
+	path = themes/apollo
+	url = https://github.com/pinggod/hexo-theme-apollo.git
